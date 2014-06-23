@@ -3,3 +3,4 @@
 .Rhistory
 *.results
 *.html
+!index.html
